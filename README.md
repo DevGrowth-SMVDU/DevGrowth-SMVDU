@@ -130,7 +130,7 @@ We specialize in:
 
 ### 🎯 The DSA Chronicles 2026
 <p align="center">
-  <img src="/workspaces/DevGrowth-SMVDU/assets/dsaX30.jpeg" width="85%" alt="DSAx30 The DSA Chronicles 2026 Banner" style="border-radius: 8px; border: 2px solid #3D2D7A;"/>
+  <img src="https://raw.githubusercontent.com/DevGrowth-SMVDU/DevGrowth-SMVDU/main/assets/dsaX30.jpeg" width="85%" alt="DSAx30 The DSA Chronicles 2026 Banner" style="border-radius: 8px; border: 2px solid #3D2D7A;"/>
 </p>
 
 > **Timeline:** 05 June 2026 – 05 July 2026  
